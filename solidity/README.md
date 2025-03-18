@@ -35,16 +35,6 @@ audits/
 
 ---
 
-## Included Audits
-
-- **[Miao The Cat](./MiaoTheCat/)**  
-  - A meme-inspired ERC-20 token with a locked-transfer mechanism for early liquidity management.  
-  - **Status**: Medium-risk finding identified; no critical or high-severity issues discovered.
-
-*(Add more projects below as you upload them.)*
-
----
-
 ## How to Use These Audits
 
 1. **Project Teams**  
@@ -75,7 +65,6 @@ To schedule a new audit or request additional services, please contact us:
 
 - **Website**: [BlockFid.com](https://BlockFid.com)  
 - **Email**: [contact@blockfid.com](mailto:contact@blockfid.com)  
-- **Twitter**: [@BlockFidSec](https://twitter.com/BlockFidSec)
 
 We look forward to helping you secure and optimize your Solidity-based smart contracts!
 
